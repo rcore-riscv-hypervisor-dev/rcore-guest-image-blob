@@ -1,3 +1,4 @@
 rcore filter=lfs diff=lfs merge=lfs -text
 kernel.img filter=lfs diff=lfs merge=lfs -text
 riscv64-user.img filter=lfs diff=lfs merge=lfs -text
+rcore_on_rcore.webm filter=lfs diff=lfs merge=lfs -text
